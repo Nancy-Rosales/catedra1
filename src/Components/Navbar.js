@@ -12,9 +12,7 @@ function Navbar() {
         <li>
           <Link to="/show">Tabla mostrar Productos</Link>
         </li>
-        <li>
-          <Link to="/Clock">Productos API</Link>
-        </li>
+       
         <li>
           <Link to="/contact">Contacto</Link>
         </li>
